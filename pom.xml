@@ -38,6 +38,10 @@
                             <mainClass>org.jsresources.audioloop.AudioLoop</mainClass>
                             <name>AudioLoop</name>
                         </program>
+                        <program>
+                            <mainClass>org.jsresources.oscillatorplayer.OscillatorPlayer</mainClass>
+                            <name>OscillatorPlayer</name>
+                        </program>
                     </programs>
                     <repositoryLayout>flat</repositoryLayout>
                     <repositoryName>lib</repositoryName>
