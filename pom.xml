@@ -17,6 +17,11 @@
             <artifactId>java-getopt</artifactId>
             <version>1.0.13</version>
         </dependency>
+        <dependency>
+            <groupId>com.googlecode.soundlibs</groupId>
+            <artifactId>tritonus-share</artifactId>
+            <version>0.3.7-2</version>
+        </dependency>
     </dependencies>
     
     <build>
